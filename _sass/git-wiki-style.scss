@@ -149,6 +149,10 @@ img {
   padding-bottom: 55px !important;
 }
 
+#toc {
+  float: right;
+}
+
 @media print,
 screen and (max-width: 992px) {
   #git-wiki-sidebar {
