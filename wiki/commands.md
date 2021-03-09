@@ -20,7 +20,7 @@ Command | Description
 --- | ---
 `rg info` | See information about the current regions
 `rg info [region-name]` | See information about the given region
-`/rg addmember -w "world" [region-name]` | Add a member to your [protected land](protected-land)
+`/rg addmember -w "world" [region-name]` | Add a member to your [protected land](protected_land)
 `/rg removemember -w "world" [region-name]` | Remove a member from your protected land
 `/coreprotect inspect` | Inspect blocks within [10k](10k)
 
