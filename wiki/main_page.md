@@ -1,8 +1,9 @@
 ---
-redirect_from: "/"
-redirect_from: "/home"
-redirect_from: "/main"
-redirect_from: "/scrubcraft"
+redirect_from:
+ - /
+ - /home
+ - /main
+ - /scrubcraft
 ---
 # Welcome to ScrubCraft
 
