@@ -1,10 +1,11 @@
 ---
 redirect_from:
- - /
- - /home
- - /main
- - /scrubcraft
+  - /
+  - /home
+  - /main
+  - /scrubcraft
 ---
+
 # Welcome to ScrubCraft
 
 [ScrubCraft](scrubcraft) is a [MineCraft Server](server) part of the [ScrubClub](scrubclub) community. The server and community was built by [Sulack](sulack), the owner of the server.
@@ -20,12 +21,12 @@ Server Backup & Reboot: Daily from 12A.M. - 1 A.M. PST (warning message 5 minute
 
 ## Server Rules
 
-**BANNABLE**
+### BANNABLE
 
 1. No Hacking/ Hacked clients
 2. No X-ray
 3. No chat spam
-4. If subject is deemed a detriment to the community 
+4. If subject is deemed a detriment to the community
 5. Abusing Server zones such as pvp
 
 All Rules are subject to moderator and admin interpretation.
