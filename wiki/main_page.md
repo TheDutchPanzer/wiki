@@ -13,9 +13,10 @@ redirect_from:
 ## Server Information
 
 - **IP: techgarage.ca**
+- Version: 1.16+
 - [SubReddit](https://www.reddit.com/r/ScrubCraft/)
 - [Patreon](https://www.patreon.com/scrubclub)
-- [Discord](https://discord.gg/KhSpu8H8y8) [[wiki](discord)]
+- [Discord Server](https://discord.gg/KhSpu8H8y8) [[wiki](discord)]
 
 Server Backup & Reboot: Daily from 12A.M. - 1 A.M. PST (warning message 5 minutes Prior)
 
