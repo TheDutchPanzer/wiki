@@ -12,7 +12,7 @@
 
 ## History
 
-Not much is known about the history of his moderator account since he mostly was busy with the server. Though allot of foutage of his work on the server is available on his youtube channel.
+Not much is known about the history of his moderator account since he mostly was busy with the server. Though allot of foutage of his work on the server is available on his ![YouTube](https://www.youtube.com/channel/UCBYO5axZoTcEEX_FQKsDFrQ) channel.
 
 
 Page is a work in progress.
