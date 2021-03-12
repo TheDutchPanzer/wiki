@@ -5,8 +5,9 @@
 |---------------|---------------|
 | Rank          | Owner         |
 | Status        | Active        |
+| Alts          | [Kcalus](kcalus) |
 
 
-[Sulack](sulack) is the server owner and lead developer of the
+[Sulack](sulack) is the server owner and lead developer of the [ScrubCraft](scrubcraft) Minecraft server. 
 
 Page is a work in progress.
