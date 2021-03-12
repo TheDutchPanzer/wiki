@@ -1,6 +1,6 @@
 # Sulack
 
-![Sulack](https://github.com/TheDutchPanzer/wiki/blob/master/assets/images/Sulack.png)
+![Sulack](assets/images/Sulack.png)
 
 | Name          | Sulack        |
 |:-------------:|:-------------:|
@@ -20,7 +20,7 @@ One of the most notable events in the history of Sulack was that he announced th
 One of his most impactful addition to the server may be the [10K](10k) and the [Outlaw](outlaw) system.
 
 ### Sulack on the 26th of september 2020
-![Sulack](https://github.com/TheDutchPanzer/wiki/blob/master/assets/images/2020-09-26_22.24.09.png)
+![Sulack](assets/images/2020-09-26_22.24.09.png)
 
 ## Activities
 
@@ -37,7 +37,7 @@ Over the course of the server Sulack has added/removed a lot of things to the Mi
 - [Server Hearts](server_hearts)
 
 ### Sulack showing of a headhunter sword.
-![Sulack](https://github.com/TheDutchPanzer/wiki/blob/master/assets/images/2021-03-10_00.30.12.png)
+![Sulack](assets/images/2021-03-10_00.30.12.png)
 
 ## Updates
 
