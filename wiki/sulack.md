@@ -1,6 +1,5 @@
 # Sulack
-
-|![DynMap](https://github.com/TheDutchPanzer/wiki/blob/master/assets/images/Sulack.png)|
+![DynMap](https://github.com/TheDutchPanzer/wiki/blob/master/assets/images/Sulack.png)
 
 [Sulack](sulack) is the server owner and lead developer of the
 
