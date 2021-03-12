@@ -30,3 +30,6 @@ Over the course of the server Sulack has added/removed a lot of things to the Mi
 - [EdgeStone](edgestone)
 - [Modtown](modtown) (A town created by the original players of ScrubCraft where some player owned shops are located.)
 - [Server Hearts](server_hearts)
+
+### Sulack showing of a headhunter sword.
+![Sulack](https://github.com/TheDutchPanzer/wiki/blob/master/assets/images/2021-03-10_00.30.12.png)
