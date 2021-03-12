@@ -1,5 +1,4 @@
 # Sulack
-___
 
 ![DynMap](https://github.com/TheDutchPanzer/wiki/blob/master/assets/images/Sulack.png)
 
@@ -13,7 +12,7 @@ ___
 
 ## History
 
-Not much is known about the history of his moderator account since he mostly was busy with the server.
+Not much is known about the history of his moderator account since he mostly was busy with the server. Though allot of foutage of his work on the server is available on his youtube channel.
 
 
 Page is a work in progress.
