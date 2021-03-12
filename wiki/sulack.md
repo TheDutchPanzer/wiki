@@ -1,13 +1,19 @@
 # Sulack
+___
+
 ![DynMap](https://github.com/TheDutchPanzer/wiki/blob/master/assets/images/Sulack.png)
 
 | Name          | Sulack        |
 |---------------|---------------|
 | Rank          | Owner         |
 | Status        | Active        |
-| Alts          | [Kcalus](kcalus) |
+| Known alts    | [Kcalus](kcalus) |
 
+[Sulack](sulack) is the server owner and lead developer of the [ScrubCraft](scrubcraft) Minecraft server. Sulack was probably the first players on the Scrubcraft server. However this is his moderator account and does not play survival on it. When he actualy does play survival he will be playing om his alt [Kcalus](kcalus).
 
-[Sulack](sulack) is the server owner and lead developer of the [ScrubCraft](scrubcraft) Minecraft server. 
+## History
+
+Not much is known about the history of his moderator account since he mostly was busy with the server.
+
 
 Page is a work in progress.
