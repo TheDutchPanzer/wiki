@@ -8,7 +8,7 @@ redirect_from:
 
 # Welcome to ScrubCraft
 
-[ScrubCraft](scrubcraft) is a [MineCraft Server](server) part of the [ScrubClub](scrubclub) community. The server and community was built by [Sulack](sulack), the owner of the server.
+[ScrubCraft](scrubcraft) is a [MineCraft Server](https://minecraft.gamepedia.com/Server) part of the [ScrubClub](scrubclub) community. The server and community was built by [Sulack](sulack), the owner of the server.
 
 ## Server Information
 
@@ -34,4 +34,4 @@ All Rules are subject to moderator and admin interpretation.
 
 Any punishments that you do not agree with, please contact an admin to resolve.
 
-Outside of 10k blocks, no plugins have any effects, you are free to do what you want.
+Outside of [10k](10k) blocks, no plugins have any effects, you are free to do what you want.
