@@ -22,7 +22,7 @@ That's it, you now have a GitHub account.
 
 The first time you click one of the links at the top of this page to Add, Edit, or Delete. You will need to [Fork](<https://en.wikipedia.org/wiki/Fork_(software_development)>) the wiki repository.
 
-![Fork](/assets/images/fork_this_repository_to_propose_changes.png "Fork this repository")
+![Fork](assets/images/fork_this_repository_to_propose_changes.png "Fork this repository")
 
 After clicking this link you will be on the editor screen.
 
@@ -32,7 +32,7 @@ The pages in this wiki use a format language called [Markdown](https://en.wikipe
 
 You can see this [Example](example). Go to it and click edit page to see what it looks like.
 
-![Example](/assets/images/example.md.png "Example")
+![Example](assets/images/example.md.png "Example")
 
 ### File Naming
 
@@ -72,11 +72,11 @@ Code: `[Google](https://google.com)` - This will appear as: [Google](https://goo
 
 At the bottom of the editor is the proposal form. Down here you can give your edits a quick description. The second box is optional to give extended details or substantiation.
 
-![Propose](/assets/images/propose_new_file.png "Propose New File")
+![Propose](assets/images/propose_new_file.png "Propose New File")
 
 Next create a Pull Request. This is requesting us to add your changes to the wiki, we will review your pull request, add comments, make nessasary changes, and then publish.
 
-![Pull Request](/assets/images/pull_request.png "Pull Request")
+![Pull Request](assets/images/pull_request.png "Pull Request")
 
 It will ask you for details on the pull request. Because you only edited one page, you can just click create pull request to finish. If you edit multiple pages then fill in what was changed.
 
