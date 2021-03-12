@@ -14,6 +14,7 @@ redirect_from:
 
 - **IP: techgarage.ca**
 - Version: 1.16+
+- [Map](http://mcmap.techgarage.ca/)
 - [SubReddit](https://www.reddit.com/r/ScrubCraft/)
 - [Patreon](https://www.patreon.com/scrubclub)
 - [Discord Server](https://discord.gg/KhSpu8H8y8) [[wiki](discord)]
