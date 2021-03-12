@@ -22,3 +22,11 @@ Not much is known about the history of his moderator account since he mostly was
 Unlike what many players believe Sulack can see and do a lott more things than they realize. Sulack can and will for example see what you are saying with the /msg command. Sometimes Sulack will fly arround in vanish and see what you are up too. Some players might say that this is unfair, however this is a pretty standard practice for a server owner and almost every owner of a server has this ability.
 
 Sulack also tends to be a lot of AFK, butt let this not deceive you since he just might be not responding to your messages.
+
+Over the course of the server Sulack has added/removed a lot of things to the Minecraft server. Some noteable things sulack has added to Minecraft server are:
+- [Spawn](spawn) (Over the course of the server the spawn has changed a lot.)
+- [Cosmetics](cosmetics)
+- [Headhunter](headhunter) (A sword which drops a players sword when they are killed with this sword.)
+- [EdgeStone](edgestone)
+- [Modtown](modtown) (A town created by the original players of ScrubCraft where some player owned shops are located.)
+- [Server Hearts](server_hearts)
