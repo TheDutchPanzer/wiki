@@ -17,6 +17,8 @@ Not much is known about the history of his moderator account since he mostly was
 
 One of the most notable events in the history of Sulack was that he announced will end the "The age of Market-Driven freedom" is over and that the "perfect, never flawed Dictatorsh....Peoples Democratic Republic has been formed". After this announcement he also changed his to a Kim Jong-un like version of his skin.
 
+One of his most impactful addition to the server may be the [10K](10k) and the [Outlaw](outlaw) system.
+
 ### Sulack on the 26th of september 2020
 ![Sulack](https://github.com/TheDutchPanzer/wiki/blob/master/assets/images/2020-09-26_22.24.09.png)
 
