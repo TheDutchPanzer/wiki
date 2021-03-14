@@ -1,3 +1,8 @@
+---
+redirect_from:
+  - /owner
+---
+
 # Sulack
 
 ![Sulack](assets/images/Sulack.png)
